@@ -2,6 +2,6 @@
 
 Live links
 
-https://rishanfaruk.com/
-https://rishanfaruk.netlify.app/
+https://rishanfaruk.com/ <br>
+https://rishanfaruk.netlify.app/ <br>
 https://irishanfaruk.github.io/Personal_Portfolio/
